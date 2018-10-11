@@ -1,1 +1,5 @@
-greeting: "Hello Prod"
+uj:
+    profile: "Infra"
+    said:
+        first: "Hello,"
+        second: "Prod"
