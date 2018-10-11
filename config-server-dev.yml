@@ -1,1 +1,5 @@
-greeting: "Hello"
+uj:
+    profile: "SSG"
+    said:
+        first: "Hello,"
+        second: "Dev"
