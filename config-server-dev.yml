@@ -1,7 +1,10 @@
+---
 uj:
     profile: "SSG"
     said:
         first: "Hello,"
         second: "Dev"
+
+---
 key:
     seed: "DEVKEY"
