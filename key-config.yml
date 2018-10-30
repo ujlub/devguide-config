@@ -1,32 +1,27 @@
 api:
   authKey: 9ee19d53-64db-4d91-9f3f-62029f3d0ecd
-key:
   seed: "SSGREALKEY"
 
 ---
 
 spring:
   profiles: prod
-key:
   seed: "SSGREALKEY"
   
 ---
 
 spring:
   profiles: qa
-key:
   seed: "SSGQAKEY"
 
 ---
 
 spring:
   profiles: dev
-key:
   seed: "SSGDEVKEY"
   
 ---
 
 spring:
   profiles: local
-key:
   seed: "SSGLOCALKEY"
